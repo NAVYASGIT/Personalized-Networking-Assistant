@@ -1,0 +1,7 @@
+fastapi
+streamlit
+google-generativeai
+pandas
+numpy
+scikit-learn
+psycopg2-binary
